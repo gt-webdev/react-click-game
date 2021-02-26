@@ -1,4 +1,4 @@
-## React Click Gamne
+## React Click Game
 Download Node.js (LTS is fine)
 https://nodejs.org/en/
 
